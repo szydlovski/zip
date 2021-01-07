@@ -1,0 +1,16 @@
+{
+  "name": "@szydlovski/zip",
+  "version": "0.1.2",
+  "description": "convenience functions for JSZip",
+  "main": "index.js",
+  "keywords": [
+    "zip"
+  ],
+  "type": "module",
+  "repository": "https://github.com/szydlovski/zip",
+  "author": "Kamil Szydlowski <kamil.szydlovski@gmail.com> (http://www.szydlovski.com)",
+  "license": "MIT",
+  "dependencies": {
+    "jszip": "^3.5.0"
+  }
+}
